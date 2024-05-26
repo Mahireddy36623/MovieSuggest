@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859967384191",
+    "project_id": "moviesuggest-e18cf",
+    "storage_bucket": "moviesuggest-e18cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859967384191:android:6b8b01c05f3cf9c89ced4a",
+        "android_client_info": {
+          "package_name": "com.example.moviesuggest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Sa31DaWWelDn6vtrS49X_wbjJ8N-vaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Suggest</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Wishlist</string>
+    <string name="notifications">Profile</string>
+    <string name="profile">Profile</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+
+</resources>
